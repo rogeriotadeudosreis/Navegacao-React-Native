@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-navigation/native": "^6.0.2",
     "@react-navigation/stack": "^6.0.7",
     "react": "17.0.2",
@@ -17,6 +18,10 @@
     "react-native-gesture-handler": "^1.10.3",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.6.0"
+=======
+    "react": "17.0.2",
+    "react-native": "0.65.1"
+>>>>>>> 6eb20fbf27e422a76255d24b1993c3cccb3d0160
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
